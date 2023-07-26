@@ -1,4 +1,3 @@
-import { ApolloProvider } from "@apollo/client";
 import './App.css';
 
 
